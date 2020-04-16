@@ -1,4 +1,4 @@
-<h1>Code Snippet and run commands for Lab - Using Azure Storage Queues to process asynchronous messages</h1>
+<h1>Commands for Lab - Using Azure Storage Queues to process asynchronous messages</h1>
 
 <h3>Create a new .Net Core console app</h3>
 dotnet new console --name MessageProcessor --output .
